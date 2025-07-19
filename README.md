@@ -49,7 +49,7 @@ Simplemente abre index.html en cualquier navegador moderno.
 
 • UTN por la formación
 • Comunidad de desarrolladores web
-• A mi familia (Flor, abulela Lucy, mis viejos y mi hno)
+• A mi familia (Flor, abuela Lucy, mis viejos y mi hno)
 
 ## Licencia
 
